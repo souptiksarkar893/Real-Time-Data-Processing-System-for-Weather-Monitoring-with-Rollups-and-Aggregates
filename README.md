@@ -37,6 +37,12 @@ You will need to have the following installed on your machine:
 
 ## Getting Started
 
+Clone the repository:
+   ```bash
+git clone https://https://github.com/souptiksarkar893/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
+cd your-repo/server
+```
+
 ### Server Setup
 1. Navigate to the server directory:
    ```bash
