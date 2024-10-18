@@ -83,10 +83,14 @@ cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggr
 
 4. The client will run at `http://localhost:3000` and will proxy API requests to the server running on `http://localhost:5000`.
 
+
+![Preview of App](./previewOfApp.png)
+
+
 ## Available Scripts
 
 ### Server Scripts
-- **`npm run dev`**: Starts the server in development mode with `nodemon`.
+- **`nodemon app.js`**: Starts the server in development mode with `nodemon`.
 
 ### Client Scripts
 - **`npm start`**: Starts the React development server.
