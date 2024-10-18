@@ -39,7 +39,7 @@ You will need to have the following installed on your machine:
 
 Clone the repository:
    ```bash
-git clone https://https://github.com/souptiksarkar893/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
+git clone https://github.com/souptiksarkar893/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
 cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates/server
 ```
 
