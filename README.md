@@ -56,7 +56,7 @@ You will need to have the following installed on your machine:
 
 4. Start the server:
    ```bash
-   npm run dev
+   nodemon app.js
    ```
 
 ### Client Setup
